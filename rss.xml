@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BlueHouse]]></title>
         <description><![CDATA[BlueHouse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bluehouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 15:25:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 15:35:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bluehouse/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We are a focused, nimble company dedicated in providing top-quality and consistent professional consulting and managed services to businesses enterprises that seek experts with in-depth knowledge needed to assist them by maximizing the utilization of Cisco’s Tidal Enterprise Scheduler which is designed to manage the entire Workload Automation of an enterprise.</p>]]></description>
-            <link>undefinedwe-are-a-focused-nimble-company-dedicated-in-providing-top-/index.html</link>
+            <title><![CDATA[About US]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfcb3ff9-65cf-4347-a59f-26da43ca29b0.jpg">]]></description>
+            <link>https://thegrid.ai/bluehouse/we-are-a-focused-nimble-company-dedicated-in-providing-top-/index.html</link>
             <guid isPermaLink="false">06385cc0-54f5-4756-b98b-013e03d56194</guid>
-            <pubDate>Sun, 24 Apr 2016 15:25:30 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 15:33:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
