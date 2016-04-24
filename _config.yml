@@ -1,7 +1,7 @@
 name: BlueHouse
 favicon: null
 layout_spectrum: 0.5870480167213827
-typography_spectrum: 0.4180539632216096
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
